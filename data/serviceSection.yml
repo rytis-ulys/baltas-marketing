@@ -1,0 +1,29 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Creative Services
+
+  Our mission is to get you more customers online.
+  
+service:
+  - content: >
+      #### Digital Marketing Strategy
+
+      We identify areas for improvement that will help you achieve your goals, 
+      whether that’s increasing website traffic, boosting conversion rates, reducing bounce rates 
+      or improving your search ranking.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Social Media Marketing 
+
+      We can deliver bespoke social media campaigns designed to drive social engagement, 
+      capture data and boost the visibility of any product. 
+    image: images/service/web.svg
+  - content: >
+      #### Search Engine Optimisation 
+
+      Get in front of customers who are already searching for your product or service with our SEO strategies. 
+      We conduct competitor research and keyword research to improve rankings so that your website is seen by as many people as possible.
+
+    image: images/service/creative.svg

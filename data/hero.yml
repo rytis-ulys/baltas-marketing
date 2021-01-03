@@ -1,0 +1,10 @@
+---
+enable: true
+topTitle: Hello, we are Baltas®.
+content: >
+  # Drive sales and improve your marketing ROI with us.
+
+  We can build performant campaigns that make a real difference to your bottom line.
+buttonName: Contact us
+buttonURL: contact
+image: images/hero/cover.jpg

@@ -1,0 +1,16 @@
+---
+enable: true
+topTitle: About us
+title: >
+  ## About us
+
+  We help our clients get more paying customers.
+content: >
+  ### Results-driven digital marketing agency.
+
+  We deliver a personal, passionate and tailored service to each and every one of our clients.
+  We strongly believe that there’s no merit in a ‘one-size-fits-all’ approach when it comes to SEO, content marketing, social media or PPC.
+  Just straight talking and smart thinking, delivered by people who care about your business.
+button1Name: Hire us
+button1Target: contact
+image: images/about/about-img.jpg
